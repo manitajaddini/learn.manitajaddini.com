@@ -1,5 +1,5 @@
 {
     "redirects": [
-        { "source": "/", "destination": "[http://95.179.185.238/lwt](http://95.179.185.238/lwt)" }
+        { "source": "/", "destination": "http://95.179.185.238/lwt" }
     ]
 }
